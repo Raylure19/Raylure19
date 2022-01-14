@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raylure19
-- 👀 I’m interested wearables, fitness sensors, movement tracking/analysis applications
+- 👀 I’m interested in health and fitness wearables, sensors, and movement tracking/analysis applications
 
 
 <!---
